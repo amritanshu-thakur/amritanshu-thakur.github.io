@@ -8,4 +8,4 @@ I love teaching and simplifying physics.
 ---
 
 ### 📧 Contact
-Email: amritanshu.thakur.physics@gmail.com
+Email: amritanshu.thakur.phys@gmail.com
